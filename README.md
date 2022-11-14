@@ -4,7 +4,7 @@
 
 <h4 align="center"> Major in Computer Engineering in Ankara University.
 
-Creates web applications with Python, Golang, React.
+Creates web applications.
 
 Helps people to improve themselves by sharing simple exercises.
 
