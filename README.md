@@ -2,15 +2,13 @@
 
 <h3 align="center">Software Engineer from Turkey</h3>
 
-Major in Computer Engineering in Ankara University.
+<h4 align="center"> Major in Computer Engineering in Ankara University.
 
 Creates web applications with Python, Golang, React.
 
 Helps people to improve themselves by sharing simple exercises.
 
-Lover of Open World.
-
-- 🔭 I’m currently working on **Tarla IO**
+Lover of Open World. </h4>
 
 # 🤖 My Tech Stack :
 
