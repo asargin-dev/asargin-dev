@@ -1,11 +1,10 @@
 # Ahmet Sargın 
 
-I am Ahmet 😃. I am from Turkeey and currently working at TarlaIO in Turkey ☁.
+Major in Computer Engineering in Ankara University.
 
-I major in Computer Engineering in Ankara University 💻.
+Creates web applications with Python, Golang, React.
 
-I started coding by Java Web Developer after getting deep in web development i worked with Python,React and GoLang 🕊.
+Helps people to improve themselves by sharing simple exercises.
 
--👯 Communities Roles-
-🚀 PatikaDev GoLang Backend Development/Member
+Lover of Open World.
 
